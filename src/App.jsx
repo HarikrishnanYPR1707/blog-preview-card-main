@@ -3,9 +3,9 @@ import "./App.css";
 function App() {
   return (
     <div className="flex h-screen items-center justify-center border-[5px] border-black px-5">
-      <div className="border border-red-500 bg-white">
-        <div className="">
-          <img src="#" alt="svg" />
+      <div className="rounded-2xl border border-red-500 bg-white p-5">
+        <div className="overflow-hidden rounded-xl">
+          <img src="/illustration-article.svg" alt="svg" />
         </div>
         <div className="">
           <p>Learning</p>
@@ -19,7 +19,7 @@ function App() {
           </p>
         </div>
         <div className="">
-          <img src="#" alt="logo" className="" />
+          <img src="/image-avatar.webp" alt="logo" className="" />
           <p className="">Grep Hooper</p>
         </div>
       </div>
