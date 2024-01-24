@@ -2,7 +2,7 @@ import React from "react";
 
 const BlogCardPreview = () => {
   return (
-    <div className="font-figtree flex max-w-[375px] flex-col items-center justify-center rounded-2xl border border-black bg-white p-5 text-base shadow-[10px_10px_0_0_black]">
+    <div className="font-figtree flex max-w-[375px] flex-col items-center justify-center rounded-2xl border-2 border-black bg-white p-[22px] text-base shadow-[10px_10px_0_0_black]">
       <div className="mb-5 w-full overflow-hidden rounded-xl">
         <img src="/illustration-article.svg" alt="svg" />
       </div>
