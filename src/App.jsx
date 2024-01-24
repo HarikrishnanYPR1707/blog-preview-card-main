@@ -22,9 +22,9 @@ function App() {
             structure, content and presentation.
           </p>
         </div>
-        <div className="flex w-full items-center justify-start">
-          <img src="/image-avatar.webp" alt="logo" className="" />
-          <p className="">Grep Hooper</p>
+        <div className="flex w-full items-center justify-start gap-2">
+          <img src="/image-avatar.webp" alt="logo" className="w-[30px]" />
+          <p className="font-bold">Grep Hooper</p>
         </div>
       </div>
     </div>
