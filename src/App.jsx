@@ -1,7 +1,11 @@
 import "./App.css";
 
 function App() {
-  return <div className="border-[5px] border-black h-screen">Sample</div>;
+  return (
+    <div className="h-screen border-[5px] border-black">
+      <div className="">lkajsdlkfjlaksjdf</div>
+    </div>
+  );
 }
 
 export default App;
